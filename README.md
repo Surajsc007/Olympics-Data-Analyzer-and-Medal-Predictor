@@ -1,7 +1,7 @@
 # Olympics-Data-Analyzer-and-Medal-Predictor
 
 Checkout Project: 
-https://delta-visio-ai-image-generation-application-1.vercel.app/
+https://olympics-data-analyzer-and-medal-predictor.streamlit.app/
 
 # Preview
 
