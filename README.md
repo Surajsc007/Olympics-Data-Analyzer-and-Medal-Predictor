@@ -16,3 +16,4 @@ https://olympics-data-analyzer-and-medal-predictor.streamlit.app/
 !["Olympics-Data-Analyzer-and-Medal-Predictor"](assets/15.png)
 
 !["Olympics-Data-Analyzer-and-Medal-Predictor"](assets/16.png)
+
